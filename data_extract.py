@@ -52,10 +52,13 @@ def college():
         college = namedtuple("college", ["name", "ranking"])
 
         univ = ("university", "University", "College", "college", "Institute")
-        univs = [
-            col.strip() for col in colleges if any(keyword in col for keyword in univ)
-        ]
-        return univs
+
+        # universities = [
+        #     col.strip() for col in colleges if any(keyword in col for keyword in univ)
+        # ]
+        univ_tuple = [college(name=col.strip() for col in colleges if any(keyword in col for keyword in univ),
+                              ranking=col.strip() for col in colleges if "NCAA" in col]
+        return univ_tuple
 
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 # simulate a nfl draft
-print("\033c")
+# print("\033c")
 # clears the screen for output
 
 import collections
@@ -15,7 +15,8 @@ positions_off, positions_def, positions_special = data_extract.positions()
 
 class Player:
     player = collections.namedtuple(
-        "player", ["name", "age", "position", "squad", "university"]
+        "player",
+        ["name", "age", "position", "squad", "university"]
     )
 
     def __init__(self):
@@ -51,9 +52,20 @@ class Player:
         return str(self.created_player)
 
 
+class Draft:
+
+    def __init__(self, year):
+        self.draft_class = []
+        self.year = year
+
+    def first_round(self):
+        pass
+
+
 if __name__ == "__main__":
-    qb1 = Player()
-    print(qb1)
+    for _ in range(1, 11):
+        print(Player())
+
     # print(positions_special)
 
 
