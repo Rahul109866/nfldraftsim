@@ -1,10 +1,9 @@
-#simulate a nfl draft
+# simulate a nfl draft
 
 import collections
 from data_extract import firstnames, secondnames
 
-first_names = firstnames()
-second_names = secondnames()
+first_names = firstnames() # get all first names
+second_names = secondnames() # get all second names
 
-print(second_names)
 
