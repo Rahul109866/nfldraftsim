@@ -1,5 +1,6 @@
 from collections import namedtuple
 
+
 def firstnames():  # function to extract all first names
     with open("firstnames.txt", "r") as namelist:
         names = namelist.readlines()
@@ -43,23 +44,18 @@ def positions():
             if "special" in position
         ]
         return positions_offense, positions_defense, positions_special
-    
-    
+
+
 def college():
-    
-    with open('colleges.txt', 'r') as college_file:
+    with open("colleges.txt", "r") as college_file:
         colleges = college_file.readlines()
-        college = namedtuple('college', ['name', 'ranking'])
-        
+        college = namedtuple("college", ["name", "ranking"])
+
         univ = ("university", "University", "College", "college", "Institute")
-        univs = [col.strip() for col in colleges if any(keyword in col for keyword in univ)]
+        univs = [
+            col.strip() for col in colleges if any(keyword in col for keyword in univ)
+        ]
         return univs
-       
-                
-            
-        
-        
-        
 
 
 if __name__ == "__main__":
