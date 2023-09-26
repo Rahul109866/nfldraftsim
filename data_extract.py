@@ -1,5 +1,5 @@
 def firstnames():  # function to extract all first names
-    with open('firstnames.txt', 'r') as namelist:
+    with open("firstnames.txt", "r") as namelist:
         names = namelist.readlines()
         first_names = [name.strip() for name in names]
         first_names.sort()
@@ -7,7 +7,7 @@ def firstnames():  # function to extract all first names
 
 
 def secondnames():
-    with open('secondnames.txt', 'r') as namelist:
+    with open("secondnames.txt", "r") as namelist:
         names = namelist.readlines()
         second_names = []
 
@@ -19,3 +19,29 @@ def secondnames():
                 second_names.append(a[1])  # get only name
         second_names.sort()
         return second_names
+
+
+def positions():
+    with open("positions.csv", "r") as position_file:
+        pos_csv = position_file.readlines()
+
+        positions_offense = [
+            position.strip().split(" ")[1]
+            for position in pos_csv
+            if "offense" in position
+        ]
+        positions_defense = [
+            position.strip().split(" ")[1]
+            for position in pos_csv
+            if "defense" in position
+        ]
+        positions_special = [
+            position.strip().split(" ")[1]
+            for position in pos_csv
+            if "special" in position
+        ]
+        return positions_offense, positions_defense, positions_special
+
+
+if __name__ == "__main__":
+    print(positions())
