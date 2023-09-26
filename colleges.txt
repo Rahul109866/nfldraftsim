@@ -1,0 +1,2145 @@
+Abilene Christian University
+Abilene, Texas
+Private
+Western Athletic Conference
+NCAA FCS
+Alabama A&M University
+Normal, Alabama
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Alabama State University
+Montgomery, Alabama
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Alcorn State University
+Alcorn, Mississippi
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Appalachian State University
+Boone, North Carolina
+Public
+Sun Belt Conference
+NCAA FBS
+Arizona State University
+Tempe, Arizona
+Public
+Pacific-12 Conference
+NCAA FBS
+Arkansas State University
+Jonesboro, Arkansas
+Public
+Sun Belt Conference
+NCAA FBS
+Auburn University
+Auburn, Alabama
+Public
+Southeastern Conference
+NCAA FBS
+Austin Peay State University
+Clarksville, Tennessee
+Public
+ASUN Conference
+NCAA FCS
+Ball State University
+Muncie, Indiana
+Public
+Mid-American Conference
+NCAA FBS
+Baylor University
+Waco, Texas
+Private
+Big 12 Conference
+NCAA FBS
+Bethune-Cookman University
+Daytona Beach, Florida
+Private
+Southwestern Athletic Conference
+NCAA FCS
+Boise State University
+Boise, Idaho
+Public
+Mountain West Conference
+NCAA FBS
+Boston College
+Chestnut Hill, Massachusetts
+Private
+Atlantic Coast Conference
+NCAA FBS
+Bowling Green State University
+Bowling Green, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+Brigham Young University
+Provo, Utah
+Private
+West Coast Conference
+NCAA FBS
+Brown University
+Providence, Rhode Island
+Private
+Ivy League
+NCAA FCS
+Bryant University
+Smithfield, Rhode Island
+Private
+American East Conference
+NCAA FCS
+Bucknell University
+Lewisburg, Pennsylvania
+Private
+Patriot League
+NCAA FCS
+Butler University
+Indianapolis, Indiana
+Private
+Pioneer Football League
+NCAA FCS
+California Polytechnic State University – San Luis Obispo
+San Luis Obispo, California
+Public
+Big Sky Conference
+NCAA FCS
+California State University – Fresno
+Fresno, California
+Public
+Mountain West Conference
+NCAA FBS
+California State University – Sacramento
+Sacramento, California
+Public
+Big Sky Conference
+NCAA FCS
+Campbell University
+Buies Creek, North Carolina
+Private
+Pioneer Football League
+NCAA FCS
+Central Connecticut State University
+New Britain, Connecticut
+Public
+Northeast Conference
+NCAA FCS
+Central Michigan University
+Mount Pleasant, Michigan
+Public
+Mid-American Conference
+NCAA FBS
+Charleston Southern University
+Charleston, South Carolina
+Private
+Big South Conference
+NCAA FCS
+Clemson University
+Clemson, South Carolina
+Public
+Atlantic Coast Conference
+NCAA FBS
+Coastal Carolina University
+Conway, South Carolina
+Public
+Sun Belt Conference
+NCAA FBS
+Colgate University
+Hamilton, New York
+Private
+Patriot League
+NCAA FCS
+College of the Holy Cross
+Worcester, Massachusetts
+Private
+Patriot League
+NCAA FCS
+Colorado State University
+Fort Collins, Colorado
+Public
+Mountain West Conference
+NCAA FBS
+Columbia University
+New York, New York
+Private
+Ivy League
+NCAA FCS
+Cornell University
+Ithaca, New York
+Private
+Ivy League
+NCAA FCS
+Dartmouth College
+Hanover, New Hampshire
+Private
+Ivy League
+NCAA FCS
+Davidson College
+Davidson, North Carolina
+Private
+Pioneer Football League
+NCAA FCS
+Delaware State University
+Dover, Delaware
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+Drake University
+Des Moines, Iowa
+Private
+Pioneer Football League
+NCAA FCS
+Duke University
+Durham, North Carolina
+Private
+Atlantic Coast Conference
+NCAA FBS
+Duquesne University
+Pittsburgh, Pennsylvania
+Private
+Altantic 10 Conference
+NCAA FCS
+East Carolina University
+Greenville, North Carolina
+Public
+American Athletic Conference
+NCAA FBS
+East Tennessee State University
+Johnson City, Tennessee
+Public
+Southern Conference
+NCAA FCS
+Eastern Illinois University
+Charleston, Illinois
+Public
+Ohio Valley Conference
+NCAA FCS
+Eastern Kentucky University
+Richmond, Kentucky
+Public
+Asun Conference
+NCAA FCS
+Eastern Michigan University
+Ypsilanti, Michigan
+Public
+Mid-American Conference
+NCAA FBS
+Eastern Washington University
+Cheney, Washington
+Public
+Big Sky Conference
+NCAA FCS
+Elon University
+Elon, North Carolina
+Private
+Colonial Athletic Association
+NCAA FCS
+Florida A&M University
+Tallahassee, Florida
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Florida Atlantic University
+Boca Raton, Florida
+Public
+The american athletic Conference
+NCAA FBS
+Florida International University
+Miami, Florida
+Public
+Conference USA
+NCAA FBS
+Florida State University
+Tallahassee, Florida
+Public
+Atlantic Coast Conference
+NCAA FBS
+Fordham University
+Bronx, New York
+Private
+Patriot League
+NCAA FCS
+Furman University
+Greenville, South Carolina
+Private
+Southern Conference
+NCAA FCS
+Gardner-Webb University
+Boiling Springs, North Carolina
+Private
+Big South Conference
+NCAA FCS
+Georgetown University
+Washington, District Of Columbia
+Private
+Patriot League
+NCAA FCS
+Georgia Southern University
+Statesboro, Georgia
+Public
+Sun Belt Conference
+NCAA FBS
+Georgia State University
+Atlanta, Georgia
+Public
+Sun Belt Conference
+NCAA FBS
+Georgia Tech
+Atlanta, Georgia
+Public
+Atlantic Coast Conference
+NCAA FBS
+Grambling State University
+Grambling, Louisiana
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Hamline University
+Saint Paul, Minnesota
+Public
+Minnesota Intercollegiate Athletic Conference
+NCAA FBS
+Hampton University
+Hampton, Virginia
+Private
+Colonial Athletic Association
+NCAA FCS
+Harvard University
+Cambridge, Massachusetts
+Private
+Ivy League
+NCAA FCS
+Houston Christian University
+Houston, Texas
+Private
+Southland Conference
+NCAA FCS
+Howard University
+Washington, District Of Columbia
+Private
+Mid-Eastern Athletic Conference
+NCAA FCS
+Idaho State University
+Pocatello, Idaho
+Public
+Big Sky Conference
+NCAA FCS
+Illinois State University
+Normal, Illinois
+Public
+Missouri Valley Conference
+NCAA FCS
+Indiana State University
+Terre Haute, Indiana
+Public
+Missouri Valley Football Conference
+NCAA FCS
+Indiana University
+Bloomington, Indiana
+Public
+Big Ten Conference
+NCAA FBS
+Iowa State University
+Ames, Iowa
+Public
+Big 12 Conference
+NCAA FBS
+Jackson State University
+Jackson, Mississippi
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Jacksonville State University
+Jacksonville, Alabama
+Public
+ASUN Conference
+NCAA FCS
+James Madison University
+Harrisonburg, Virginia
+Public
+Colonial Athletic Association
+NCAA FBS
+Kansas State University
+Manhattan, Kansas
+Public
+Big 12 Conference
+NCAA FBS
+Kennesaw State University
+Kennesaw, Georgia
+Public
+Atlantic Sun Conference
+NCAA FCS
+Kent State University
+Kent, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+Lafayette College
+Easton, Pennsylvania
+Private
+Patriot League
+NCAA FCS
+Lamar University
+Beaumont, Texas
+Public
+Southland Conference
+NCAA FCS
+Lehigh University
+Bethlehem, Pennsylvania
+Private
+Patriot League
+NCAA FCS
+Liberty University
+Lynchburg, Virginia
+Private
+Conference USA
+NCAA FBS
+Lindenwood University
+Saint Charles, Missouri
+Private
+Ohio Valley Conference
+NCAA FCS
+Long Island University
+Long Island, New York
+Private
+Northeast Conference
+NCAA FCS
+Louisiana State University (LSU)
+Baton Rouge, Louisiana
+Public
+Southeastern Conference
+NCAA FBS
+Louisiana Tech University
+Ruston, Louisiana
+Public
+Conference USA
+NCAA FBS
+Marist College
+Poughkeepsie, New York
+Private
+Pioneer Football League
+NCAA FCS
+Marshall University
+Huntington, West Virginia
+Public
+Conference USA
+NCAA FBS
+McNeese State University
+Lake Charles, Louisiana
+Public
+Southland Conference
+NCAA FCS
+Mercer University
+Macon, Georgia
+Private
+Southern Conference
+NCAA FCS
+Merrimack College
+North Andover, Massachusetts
+Private
+Northeast Conference
+NCAA FCS
+Miami University
+Oxford, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+Michigan State University
+East Lansing, Michigan
+Public
+Big Ten Conference
+NCAA FBS
+Middle Tennessee State University
+Murfreesboro, Tennessee
+Public
+Conference USA
+NCAA FBS
+Midland University
+Fremont, Nebraska
+Public
+Great Plains Athletic Conference
+NCAA FBS
+Mississippi State University
+Mississippi State, Mississippi
+Public
+Southeastern Conference
+NCAA FBS
+Mississippi Valley State University
+Itta Bena, Mississippi
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Missouri State University
+Springfield, Missouri
+Public
+Missouri Valley Conference
+NCAA FCS
+Monmouth University
+West Long Branch, New Jersey
+Private
+Mid-Eastern Athletic Conference
+NCAA FCS
+Montana State University
+Bozeman, Montana
+Public
+Big Sky Conference
+NCAA FCS
+Morehead State University
+Morehead, Kentucky
+Public
+Ohio Valley Conference
+NCAA FCS
+Morgan State University
+Baltimore, Maryland
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+Murray State University
+Murray, Kentucky
+Public
+Missouri Valley Conference
+NCAA FCS
+New Mexico State University
+Las Cruces, New Mexico
+Public
+Sun Belt Conference
+NCAA FBS
+Nicholls State University
+Thibodaux, Louisiana
+Public
+Southland Conference
+NCAA FCS
+Norfolk State University
+Norfolk, Virginia
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+North Carolina A&T State University
+Greensboro, North Carolina
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+North Carolina Central University
+Durham, North Carolina
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+North Carolina State University
+Raleigh, North Carolina
+Public
+Atlantic Coast Conference
+NCAA FBS
+North Dakota State University
+Fargo, North Dakota
+Public
+Missouri Valley Conference
+NCAA FCS
+Northern Arizona University
+Flagstaff, Arizona
+Public
+Big Sky Conference
+NCAA FCS
+Northern Illinois University
+Dekalb, Illinois
+Public
+Mid-American Conference
+NCAA FBS
+Northwestern State University of Louisiana
+Natchitoches, Louisiana
+Public
+Southland Conference
+NCAA FCS
+Northwestern University
+Evanston, Illinois
+Private
+Big Ten Conference
+NCAA FBS
+Ohio State University
+Columbus, Ohio
+Public
+Big Ten Conference
+NCAA FBS
+Ohio University
+Athens, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+Oklahoma State University
+Stillwater, Oklahoma
+Public
+Big 12 Conference
+NCAA FBS
+Old Dominion University
+Norfolk, Virginia
+Public
+Sunbelt Conference
+NCAA FBS
+Oregon State University
+Corvallis, Oregon
+Public
+Pacific-12 Conference
+NCAA FBS
+Penn State
+University Park, Pennsylvania
+Public
+Big Ten Conference
+NCAA FBS
+Portland State University
+Portland, Oregon
+Public
+Big Sky Conference
+NCAA FCS
+Prairie View A & M University
+Prairie View, Texas
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Presbyterian College
+Clinton, South Carolina
+Private
+Big South Conference
+NCAA FCS
+Princeton University
+Princeton, New Jersey
+Private
+Ivy League
+NCAA FCS
+Purdue University
+West Lafayette, Indiana
+Public
+Big Ten Conference
+NCAA FBS
+Rice University
+Houston, Texas
+Private
+Conference USA
+NCAA FBS
+Robert Morris University – Pennsylvania
+Moon Township, Pennsylvania
+Private
+Northeast Conference
+NCAA FCS
+Rutgers University
+Piscataway, New Jersey
+Public
+Big Ten Conference
+NCAA FBS
+Sacred Heart University
+Fairfield, Connecticut
+Private
+Northeast Conference
+NCAA FCS
+Saint Francis University
+Loretto, Pennsylvania
+Private
+Northeast Conference
+NCAA FCS
+Sam Houston State University
+Huntsville, Texas
+Public
+Western Athletic Conference
+NCAA FCS
+Samford University
+Birmingham, Alabama
+Private
+Southern Conference
+NCAA FCS
+San Diego State University
+San Diego, California
+Public
+Mountain West Conference
+NCAA FBS
+San Jose State University
+San Jose, California
+Public
+Mountain West Conference
+NCAA FBS
+South Carolina State University
+Orangeburg, South Carolina
+Public
+Mid-Eastern Athletic Conference
+NCAA FCS
+South Dakota State University
+Brookings, South Dakota
+Public
+Summit League Conference
+NCAA FCS
+Southeast Missouri State University
+Cape Girardeau, Missouri
+Public
+Ohio Valley Conference
+NCAA FCS
+Southeastern Louisiana University
+Hammond, Louisiana
+Public
+Southland Conference
+NCAA FCS
+Southern Illinois University Carbondale
+Carbondale, Illinois
+Public
+Missouri Valley Conference
+NCAA FCS
+Southern Methodist University – SMU
+Dallas, Texas
+Private
+American Athletic Conference
+NCAA FBS
+Southern University & A&M College
+Baton Rouge, Louisiana
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Southern Utah University
+Cedar City, Utah
+Public
+Western Athletic Conference
+NCAA FCS
+Stanford University
+Stanford, California
+Private
+Pacific-12 Conference
+NCAA FBS
+Stephen F Austin State University
+Nacogdoches, Texas
+Public
+Western Conference
+NCAA FCS
+Stetson University
+Deland, Florida
+Private
+Pioneer Football League
+NCAA FCS
+Stonehill College
+Easton, Massachusetts
+Private
+Northeast Conference
+NCAA FCS
+SUNY Stony Brook University
+Stony Brook, New York
+Public
+Colonial Athletic Association
+NCAA FCS
+SUNY University at Albany
+Albany, New York
+Public
+America East Conference
+NCAA FCS
+SUNY University at Buffalo
+Buffalo, New York
+Public
+Mid-American Conference
+NCAA FBS
+Syracuse University
+Syracuse, New York
+Private
+American Athletics Conference
+NCAA FBS
+Tarleton State University
+Stephenville, Texas
+Public
+Western Athletic Conference
+NCAA FCS
+Temple University
+Philadelphia, Pennsylvania
+Public
+American Athletic Conference
+NCAA FBS
+Tennessee State University
+Nashville, Tennessee
+Public
+Ohio Valley Conference
+NCAA FCS
+Texas A&M University
+College Station, Texas
+Public
+Southeastern Conference
+NCAA FBS
+Texas A&M University – Commerce
+Commerce, Texas
+Public
+Lone Star Conference
+NCAA FCS
+Texas Christian University
+Fort Worth, Texas
+Private
+Big 12 Conference
+NCAA FBS
+Texas Southern University
+Houston, Texas
+Public
+Southwestern Athletic Conference
+NCAA FCS
+Texas State University
+San Marcos, Texas
+Public
+Sun Belt Conference
+NCAA FBS
+Texas Tech University
+Lubbock, Texas
+Public
+Big 12 Conference
+NCAA FBS
+The Citadel
+Charleston, South Carolina
+Public
+Southern Conference
+NCAA FCS
+Towson University
+Towson, Maryland
+Public
+Colonial Athletic Association
+NCAA FCS
+Troy University
+Troy, Alabama
+Public
+Sun Belt Conference
+NCAA FBS
+Tulane University
+New Orleans, Louisiana
+Private
+American Athletic Conference
+NCAA FBS
+United States Air Force Academy
+Usafa, Colorado
+Public
+Mountain West Conference
+NCAA FBS
+United States Military Academy
+West Point, New York
+Public
+Patriot League
+NCAA FBS
+United States Naval Academy
+Annapolis, Maryland
+Public
+Patriot League
+NCAA FBS
+University of Akron
+Akron, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+University of Alabama
+Tuscaloosa, Alabama
+Public
+Southeastern Conference
+NCAA FBS
+University of Alabama – Birmingham
+Birmingham, Alabama
+Public
+Conference USA
+NCAA FBS
+University of Arizona
+Tucson, Arizona
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Arkansas
+Fayetteville, Arkansas
+Public
+Southeastern Conference
+NCAA FBS
+University of Arkansas at Pine Bluff
+Pine Bluff, Arkansas
+Public
+Southwestern Athletic Conference
+NCAA FCS
+University of California – Berkeley
+Berkeley, California
+Public
+Pacific-12 Conference
+NCAA FBS
+University of California – Davis
+Davis, California
+Public
+Big Sky Conference
+NCAA FCS
+University of California – Los Angeles – UCLA
+Los Angeles, California
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Central Arkansas
+Conway, Arkansas
+Public
+Southland Conference
+NCAA FCS
+University of Central Florida
+Orlando, Florida
+Public
+Big 12 Conference
+NCAA FBS
+University of Central Florida
+Orlando, Florida
+Public
+American Athletic Conference
+NCAA FBS
+University of Cincinnati
+Cincinnati, Ohio
+Public
+American Athletic Conference
+NCAA FBS
+University of Colorado – Boulder
+Boulder, Colorado
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Connecticut
+Storrs, Connecticut
+Public
+Big East Conference
+NCAA FBS
+University of Dayton
+Dayton, Ohio
+Private
+Pioneer Football League
+NCAA FCS
+University of Delaware
+Newark, Delaware
+Public
+Colonial Athletic Association
+NCAA FCS
+University of Florida
+Gainesville, Florida
+Public
+Southeastern Conference
+NCAA FBS
+University of Georgia
+Athens, Georgia
+Public
+Southeastern Conference
+NCAA FBS
+University of Hawaii at Manoa
+Honolulu, Hawaii
+Public
+Mountain West Conference
+NCAA FBS
+University of Houston
+Houston, Texas
+Public
+American Athletic Conference
+NCAA FBS
+University of Idaho
+Moscow, Idaho
+Public
+Big Sky Conference
+NCAA FCS
+University of Illinois
+Champaign, Illinois
+Public
+Big Ten Conference
+NCAA FBS
+University of Iowa
+Iowa City, Iowa
+Public
+Big Ten Conference
+NCAA FBS
+University of Kansas
+Lawrence, Kansas
+Public
+Big 12 Conference
+NCAA FBS
+University of Kentucky
+Lexington, Kentucky
+Public
+Southeastern Conference
+NCAA FBS
+University of Louisiana
+Lafayette, Louisiana
+Public
+Sun Belt Conference
+NCAA FBS
+University of Louisiana – Monroe
+Monroe, Louisiana
+Public
+Sun Belt Conference
+NCAA FBS
+University of Louisville
+Louisville, Kentucky
+Public
+Atlantic Coast Conference
+NCAA FBS
+University of Maine
+Orono, Maine
+Public
+America East Conference
+NCAA FCS
+University of Maryland
+College Park, Maryland
+Public
+Big Ten Conference
+NCAA FBS
+University of Massachusetts – Amherst
+Amherst, Massachusetts
+Public
+Atlantic 10 Conference
+NCAA FBS
+University of Memphis
+Memphis, Tennessee
+Public
+American Athletic Conference
+NCAA FBS
+University of Miami
+Coral Gables, Florida
+Private
+Atlantic Coast Conference
+NCAA FBS
+University of Michigan
+Ann Arbor, Michigan
+Public
+Big Ten Conference
+NCAA FBS
+University of Minnesota
+Minneapolis, Minnesota
+Public
+Big Ten Conference
+NCAA FBS
+University of Mississippi
+University, Mississippi
+Public
+Southeastern Conference
+NCAA FBS
+University of Missouri
+Columbia, Missouri
+Public
+Southeastern Conference
+NCAA FBS
+University of Montana
+Missoula, Montana
+Public
+Big Sky Conference
+NCAA FCS
+University of Nebraska
+Lincoln, Nebraska
+Public
+Big Ten Conference
+NCAA FBS
+University of Nevada – Las Vegas
+Las Vegas, Nevada
+Public
+Mountain West Conference
+NCAA FBS
+University of Nevada – Reno
+Reno, Nevada
+Public
+Mountain West Conference
+NCAA FBS
+University of New Hampshire
+Durham, New Hampshire
+Public
+American East Conference
+NCAA FCS
+University of New Mexico
+Albuquerque, New Mexico
+Public
+Mountain West Conference
+NCAA FBS
+University of North Alabama
+Florence, Alabama
+Public
+Gulf South Conference
+NCAA FCS
+University of North Carolina at Chapel Hill
+Chapel Hill, North Carolina
+Public
+Atlantic Coast Conference
+NCAA FBS
+University of North Carolina at Charlotte
+Charlotte, North Carolina
+Public
+Conference USA
+NCAA FBS
+University of North Dakota
+Grand Forks, North Dakota
+Public
+Big Sky Conference
+NCAA FCS
+University of North Texas
+Denton, Texas
+Public
+Conference USA
+NCAA FBS
+University of Northern Colorado
+Greeley, Colorado
+Public
+Big Sky Conference
+NCAA FCS
+University of Northern Iowa
+Cedar Falls, Iowa
+Public
+Missouri Valley Conference
+NCAA FCS
+University of Notre Dame
+Notre Dame, Indiana
+Private
+Division I-A Independents
+NCAA FBS
+University of Oklahoma
+Norman, Oklahoma
+Public
+Big 12 Conference
+NCAA FBS
+University of Oregon
+Eugene, Oregon
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Pennsylvania – Penn
+Philadelphia, Pennsylvania
+Private
+Ivy League
+NCAA FCS
+University of Pittsburgh
+Pittsburgh, Pennsylvania
+Public
+Atlantic Coast Conference
+NCAA FBS
+University of Rhode Island
+Kingston, Rhode Island
+Public
+Atlantic Ten Conference
+NCAA FCS
+University of Richmond
+Virginia
+Private
+Atlantic 10 Conference
+NCAA FCS
+University of San Diego
+San Diego, California
+Private
+Pioneer Football League
+NCAA FCS
+University of South Alabama
+Mobile, Alabama
+Public
+Sun Belt Conference
+NCAA FBS
+University of South Carolina
+Columbia, South Carolina
+Public
+Southeastern Conference
+NCAA FBS
+University of South Dakota
+Vermillion, South Dakota
+Public
+The Summit League
+NCAA FCS
+University of South Florida
+Tampa, Florida
+Public
+American Athletic Conference
+NCAA FBS
+University of Southern California
+Los Angeles, California
+Private
+Pacific-12 Conference
+NCAA FBS
+University of Southern Mississippi
+Hattiesburg, Mississippi
+Public
+Sun Belt Conference
+NCAA FBS
+University of St. Thomas – Minnesota
+Saint Paul, Minnesota
+Private
+The Summit League
+NCAA FCS
+University of Tennessee
+Knoxville, Tennessee
+Public
+Southeastern Conference
+NCAA FBS
+University of Tennessee – Chattanooga
+Chattanooga, Tennessee
+Public
+Southern Conference
+NCAA FCS
+University of Tennessee – Martin
+Martin, Tennessee
+Public
+Ohio Valley Conference
+NCAA FCS
+University of Texas – Austin
+Austin, Texas
+Public
+Big 12 Conference
+NCAA FBS
+University of Texas – El Paso
+El Paso, Texas
+Public
+Conference USA
+NCAA FBS
+University of Texas – Rio Grande Valley
+Edinburg, Texas
+Public
+Western Athletic Conference
+NCAA FCS
+University of Texas – San Antonio
+San Antonio, Texas
+Public
+Conference USA
+NCAA FBS
+University of the Incarnate Word
+San Antonio, Texas
+Private
+Southland Conference
+NCAA FCS
+University of Toledo
+Toledo, Ohio
+Public
+Mid-American Conference
+NCAA FBS
+University of Tulsa
+Tulsa, Oklahoma
+Private
+American Athletic Conference
+NCAA FBS
+University of Utah
+Salt Lake City, Utah
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Virginia
+Charlottesville, Virginia
+Public
+Atlantic Coast Conference
+NCAA FBS
+University of Washington
+Seattle, Washington
+Public
+Pacific-12 Conference
+NCAA FBS
+University of Wisconsin
+Madison, Wisconsin
+Public
+Big Ten Conference
+NCAA FBS
+University of Wyoming
+Laramie, Wyoming
+Public
+Mountain West Conference
+NCAA FBS
+Utah State University
+Logan, Utah
+Public
+Mountain West Conference
+NCAA FBS
+Utah Tech University (Formerly Dixie State University)
+Saint George, Utah
+Public
+Western Athletic Conference
+NCAA FCS
+Valparaiso University
+Valparaiso, Indiana
+Private
+Missouri Valley Conference
+NCAA FCS
+Vanderbilt University
+Nashville, Tennessee
+Private
+Southeastern Conference
+NCAA FBS
+Villanova University
+Villanova, Pennsylvania
+Private
+Big East Conference
+NCAA FCS
+Virginia Military Institute – VMI
+Lexington, Virginia
+Public
+Big South Conference
+NCAA FCS
+Virginia Tech
+Blacksburg, Virginia
+Public
+Atlantic Coast Conference
+NCAA FBS
+Wagner College
+Staten Island, New York
+Private
+Northeast Conference
+NCAA FCS
+Wake Forest University
+Winston-Salem, North Carolina
+Private
+Atlantic Coast Conference
+NCAA FBS
+Washington State University
+Pullman, Washington
+Public
+Pacific-12 Conference
+NCAA FBS
+Weber State University
+Ogden, Utah
+Public
+Big Sky Conference
+NCAA FCS
+West Virginia University
+Morgantown, West Virginia
+Public
+Big 12 Conference
+NCAA FBS
+Western Carolina University
+Cullowhee, North Carolina
+Public
+Southern Conference
+NCAA FCS
+Western Illinois University
+Macomb, Illinois
+Public
+Ohio Valley Conference
+NCAA FCS
+Western Kentucky University
+Bowling Green, Kentucky
+Public
+Conference USA
+NCAA FBS
+Western Michigan University
+Kalamazoo, Michigan
+Public
+Mid-American Conference
+NCAA FBS
+William & Mary
+Williamsburg, Virginia
+Public
+Colonial Athletic Association
+NCAA FCS
+Wofford College
+Spartanburg, South Carolina
+Private
+Southern Conference
+NCAA FCS
+Yale University
+New Haven, Connecticut
+Private
+Ivy League
+NCAA FCS
+Youngstown State University
+Youngstown, Ohio
+Public
+Horizon League
+NCAA FCS
+Adams State University
+Alamosa, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Albany State University
+Albany, Georgia
+Public
+Southern Intercol. Ath. Conf.
+NCAA D2
+Alderson Broaddus University
+Philippi, West Virginia
+Private
+Mountain East Conference
+NCAA D2
+Allen University
+Columbia, South Carolina
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+American International College
+Springfield, Massachusetts
+Private
+Northeast-10 Conference
+NCAA D2
+Angelo State University
+San Angelo, Texas
+Public
+Lone Star Conference
+NCAA D2
+Arkansas Tech University
+Russellville, Arkansas
+Public
+Great American Conference
+NCAA D2
+Ashland University
+Ashland, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Assumption University
+Worcester, Massachusetts
+Private
+Northeast-10 Conference
+NCAA D2
+Augustana University – South Dakota
+Sioux Falls, South Dakota
+Private
+Northern Sun Intercollegiate Conference
+NCAA D2
+Barton College
+Wilson, North Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Bemidji State University
+Bemidji, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Benedict College
+Columbia, South Carolina
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+Bentley University
+Waltham, Massachusetts
+Private
+Northeast-10 Conference
+NCAA D2
+Black Hills State University
+Spearfish, South Dakota
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Bloomsburg University of Pennsylvania
+Bloomsburg, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Bluefield State University
+Bluefield, West Virginia
+Public
+Independent
+NCAA D2
+Bowie State University
+Bowie, Maryland
+Public
+Central Intercollegiate Athletic Association
+NCAA D2
+Carson-Newman University
+Jefferson City, Tennessee
+Private
+South Atlantic Conference
+NCAA D2
+Catawba College
+Salisbury, North Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Central State University
+Wilberforce, Ohio
+Public
+Southern Intercol. Ath. Conf.
+NCAA D2
+Central Washington University
+Ellensburg, Washington
+Public
+Lone Star Conference
+NCAA D2
+Chadron State College
+Chadron, Nebraska
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Chowan University
+Murfreesboro, North Carolina
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Clark Atlanta University
+Atlanta, Georgia
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+Colorado Mesa University
+Grand Junction, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Colorado School of Mines
+Golden, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Colorado State University – Pueblo
+Pueblo, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Concord University
+Athens, West Virginia
+Public
+Mountain East Conference
+NCAA D2
+Concordia University, St. Paul – Minnesota
+Saint Paul, Minnesota
+Private
+Northern Sun Intercollegiate Conference
+NCAA D2
+Davenport University
+Grand Rapids, Michigan
+Private
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Delta State University
+Cleveland, Mississippi
+Public
+Gulf South Conference
+NCAA D2
+East Central University
+Ada, Oklahoma
+Public
+Great American Conference
+NCAA D2
+East Stroudsburg University of Pennsylvania
+East Stroudsburg, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Eastern New Mexico University
+Portales, New Mexico
+Public
+Lone Star Conference
+NCAA D2
+Edward Waters University
+Jacksonville, Florida
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+Elizabeth City State University
+Elizabeth City, North Carolina
+Public
+Central Intercollegiate Athletic Association
+NCAA D2
+Emory & Henry College
+Emory, Virginia
+Private
+South Atlantic Conference
+NCAA D2
+Emporia State University
+Emporia, Kansas
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Erskine College
+Due West, South Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Fairmont State University
+Fairmont, West Virginia
+Public
+Mountain East Conference
+NCAA D2
+Fayetteville State University
+Fayetteville, North Carolina
+Public
+Central Intercollegiate Athletic Association
+NCAA D2
+Ferris State University
+Big Rapids, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Fort Hays State University
+Hays, Kansas
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Fort Lewis College
+Durango, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Fort Valley State University
+Fort Valley, Georgia
+Public
+Southern Intercol. Ath. Conf.
+NCAA D2
+Franklin Pierce University
+Rindge, New Hampshire
+Private
+Northeast-10 Conference
+NCAA D2
+Frostburg State University
+Frostburg, Maryland
+Public
+Mountain East Conference
+NCAA D2
+Gannon University
+Erie, Pennsylvania
+Private
+Pennsylvania State Athletic Conference
+NCAA D2
+Glenville State University
+Glenville, West Virginia
+Public
+Mountain East Conference
+NCAA D2
+Grand Valley State University
+Allendale, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Harding University
+Searcy, Arkansas
+Private
+Great American Conference
+NCAA D2
+Henderson State University
+Arkadelphia, Arkansas
+Public
+Great American Conference
+NCAA D2
+Hillsdale College
+Hillsdale, Michigan
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Indiana University of Pennsylvania
+Indiana, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Johnson C. Smith University
+Charlotte, North Carolina
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Kentucky State University
+Frankfort, Kentucky
+Public
+Southern Intercol. Ath. Conf.
+NCAA D2
+Kentucky Wesleyan College
+Owensboro, Kentucky
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Kutztown University of Pennsylvania
+Kutztown, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Lake Erie College
+Painesville, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Lane College
+Jackson, Tennessee
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+Lenoir-Rhyne University
+Hickory, North Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Limestone University
+Gaffney, South Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Lincoln University – Missouri
+Jefferson City, Missouri
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Lincoln University Pennsylvania
+Lincoln University, Pennsylvania
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Lindenwood University
+St. Charles, Missouri
+Private
+Ohio Valley Conference
+NCAA D2
+Livingstone College
+Salisbury, North Carolina
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Lock Haven University
+Lock Haven, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Mars Hill University
+Mars Hill, North Carolina
+Private
+South Atlantic Conference
+NCAA D2
+McKendree University
+Lebanon, Illinois
+Private
+Great Lakes Valley Conference
+NCAA D2
+Mercyhurst University
+Erie, Pennsylvania
+Private
+Pennsylvania State Athletic Conference
+NCAA D2
+Michigan Technological University
+Houghton, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Midwestern State University
+Wichita Falls, Texas
+Public
+Lone Star Conference
+NCAA D2
+Miles College
+Fairfield, Alabama
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+Millersville University of Pennsylvania
+Millersville, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Minnesota State University – Mankato
+Mankato, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Minnesota State University – Moorhead
+Moorhead, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Minot State University
+Minot, North Dakota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Mississippi College
+Clinton, Mississippi
+Private
+Gulf South Conference
+NCAA D2
+Missouri Southern State University
+Joplin, Missouri
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Missouri University of Science & Technology
+Rolla, Missouri
+Public
+Great Lakes Valley Conference
+NCAA D2
+Missouri Western State University
+St. Joseph, Missouri
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Morehouse College
+Atlanta, Georgia
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+New Mexico Highlands University
+Las Vegas, New Mexico
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Newberry College
+Newberry, South Carolina
+Private
+South Atlantic Conference
+NCAA D2
+North Greenville University
+Tigerville, South Carolina
+Private
+Gulf South Conference
+NCAA D2
+Northeastern State University
+Tahlequah, Oklahoma
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Northern Michigan University
+Marquette, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Northern State University
+Aberdeen, South Dakota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Northwest Missouri State University
+Maryville, Missouri
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Northwestern Oklahoma State University
+Alva, Oklahoma
+Public
+Great American Conference
+NCAA D2
+Northwood University – Michigan
+Midland, Michigan
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Notre Dame College
+Cleveland, Ohio
+Private
+Mountain East Conference
+NCAA D2
+Ohio Dominican University
+Columbus, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Oklahoma Baptist University
+Shawnee, Oklahoma
+Private
+Great American Conference
+NCAA D2
+Ouachita Baptist University
+Arkadelphia, Arkansas
+Private
+Great American Conference
+NCAA D2
+Pace University
+New York, New York
+Private
+Northeast-10 Conference
+NCAA D2
+Pittsburg State University
+Pittsburg, Kansas
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Post University
+Waterbury, Connecticut
+Private
+Independent
+NCAA D2
+Quincy University
+Quincy, Illinois
+Private
+Great Lakes Valley Conference
+NCAA D2
+Saginaw Valley State University
+University Center, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+Saint Anselm College
+Manchester, New Hampshire
+Private
+Northeast-10 Conference
+NCAA D2
+Saint Augustine's University
+Raleigh, North Carolina
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Savannah State University
+Savannah, Georgia
+Public
+Southern Intercol. Ath. Conf.
+NCAA D2
+Seton Hill University
+Greensburg, Pennsylvania
+Private
+Pennsylvania State Athletic Conference
+NCAA D2
+Shaw University
+Raleigh, North Carolina
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Shepherd University
+Shepherdstown, West Virginia
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Shippensburg University of Pennsylvania
+Shippensburg, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+Shorter University
+Rome, Georgia
+Private
+Gulf South Conference
+NCAA D2
+Slippery Rock University
+Slippery Rock, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+South Dakota Mines
+Rapid City, South Dakota
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Southeastern Oklahoma State University
+Durant, Oklahoma
+Public
+Great American Conference
+NCAA D2
+Southern Arkansas University
+Magnolia, Arkansas
+Public
+Great American Conference
+NCAA D2
+Southern Connecticut State University
+New Haven, Connecticut
+Public
+Northeast-10 Conference
+NCAA D2
+Southern Nazarene University
+Bethany, Oklahoma
+Private
+Great American Conference
+NCAA D2
+Southwest Baptist University
+Bolivar, Missouri
+Private
+Great Lakes Valley Conference
+NCAA D2
+Southwest Minnesota State University
+Marshall, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Southwestern Oklahoma State University
+Weatherford, Oklahoma
+Public
+Great American Conference
+NCAA D2
+Stonehill College
+Easton, Massachusetts
+Private
+Northeast Conference
+NCAA D2
+Tarleton State University
+Stephenville, Texas
+Public
+Western Athletic Conference
+NCAA D2
+Texas A&M University – Kingsville
+Kingsville, Texas
+Public
+Lone Star Conference
+NCAA D2
+The University of Virginia's College at Wise
+Wise, Virginia
+Public
+South Atlantic Conference
+NCAA D2
+Thomas More University
+Crestview Hills, Kentucky
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Tiffin University
+Tiffin, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Truman State University
+Kirksville, Missouri
+Public
+Great Lakes Valley Conference
+NCAA D2
+Tusculum University
+Greeneville, Tennessee
+Private
+South Atlantic Conference
+NCAA D2
+Tuskegee University
+Tuskegee, Alabama
+Private
+Southern Intercol. Ath. Conf.
+NCAA D2
+University of Arkansas at Monticello
+Monticello, Arkansas
+Public
+Great American Conference
+NCAA D2
+University of Central Missouri
+Warrensburg, Missouri
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+University of Central Oklahoma
+Edmond, Oklahoma
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+University of Charleston
+Charleston, West Virginia
+Private
+Mountain East Conference
+NCAA D2
+University of Findlay
+Findlay, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+University of Indianapolis
+Indianapolis, Indiana
+Private
+Great Lakes Valley Conference
+NCAA D2
+University of Mary
+Bismarck, North Dakota
+Private
+Northern Sun Intercollegiate Conference
+NCAA D2
+University of Minnesota – Duluth
+Duluth, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+University of Mount Olive
+Mount Olive, North Carolina
+Private
+Conference Carolinas
+NCAA D2
+University of Nebraska at Kearney
+Kearney, Nebraska
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+University of New Haven
+West Haven, Connecticut
+Private
+Northeast-10 Conference
+NCAA D2
+University of North Carolina at Pembroke
+Pembroke, North Carolina
+Public
+Mountain East Conference
+NCAA D2
+University of Sioux Falls
+Sioux Falls, South Dakota
+Private
+Northern Sun Intercollegiate Conference
+NCAA D2
+University of Texas – Permian Basin
+Odessa, Texas
+Public
+Lone Star Conference
+NCAA D2
+University of West Alabama
+Livingston, Alabama
+Public
+Gulf South Conference
+NCAA D2
+University of West Florida
+Pensacola, Florida
+Public
+Gulf South Conference
+NCAA D2
+University of West Georgia
+Carrollton, Georgia
+Public
+Gulf South Conference
+NCAA D2
+Upper Iowa University
+Fayette, Iowa
+Private
+Northern Sun Intercollegiate Conference
+NCAA D2
+Valdosta State University
+Valdosta, Georgia
+Public
+Gulf South Conference
+NCAA D2
+Virginia State University
+Petersburg, Virginia
+Public
+Central Intercollegiate Athletic Association
+NCAA D2
+Virginia Union University
+Richmond, Virginia
+Private
+Central Intercollegiate Athletic Association
+NCAA D2
+Walsh University
+North Canton, Ohio
+Private
+Great Midwest Athletic Conference
+NCAA D2
+Washburn University
+Topeka, Kansas
+Public
+Mid-America Intercollegiate Athletics Association
+NCAA D2
+Wayne State College
+Wayne, Nebraska
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Wayne State University
+Detroit, Michigan
+Public
+Great Lakes Intercollegiate Athletic Conference
+NCAA D2
+West Chester University of Pennsylvania
+West Chester, Pennsylvania
+Public
+Pennsylvania State Athletic Conference
+NCAA D2
+West Liberty University
+West Liberty, West Virginia
+Public
+Mountain East Conference
+NCAA D2
+West Texas A&M University
+Canyon, Texas
+Public
+Lone Star Conference
+NCAA D2
+West Virginia State University
+Institute, West Virginia
+Public
+Mountain East Conference
+NCAA D2
+West Virginia Wesleyan College
+Buckhannon, West Virginia
+Private
+Mountain East Conference
+NCAA D2
+Western Colorado University
+Gunnison, Colorado
+Public
+Rocky Mountain Athletic Conference
+NCAA D2
+Western New Mexico University
+Silver City, New Mexico
+Public
+Lone Star Conference
+NCAA D2
+Western Oregon University
+Monmouth, Oregon
+Public
+Lone Star Conference
+NCAA D2
+Wheeling University
+Wheeling, West Virginia
+Private
+Mountain East Conference
+NCAA D2
+William Jewell College
+Liberty, Missouri
+Private
+Great Lakes Valley Conference
+NCAA D2
+Wingate University
+Wingate, North Carolina
+Private
+South Atlantic Conference
+NCAA D2
+Winona State University
+Winona, Minnesota
+Public
+Northern Sun Intercollegiate Conference
+NCAA D2
+Winston-Salem State University
+Winston-Salem, North Carolina
+Public
+Central Intercollegiate Athletic Association
+NCAA D2
