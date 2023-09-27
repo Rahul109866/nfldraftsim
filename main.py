@@ -15,8 +15,7 @@ positions_off, positions_def, positions_special = data_extract.positions()
 
 class Player:
     player = collections.namedtuple(
-        "player",
-        ["name", "age", "position", "squad", "university"]
+        "player", ["name", "age", "position", "squad", "university"]
     )
 
     def __init__(self):
@@ -53,7 +52,6 @@ class Player:
 
 
 class Draft:
-
     def __init__(self, year):
         self.draft_class = []
         self.year = year
