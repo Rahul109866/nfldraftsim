@@ -51,7 +51,18 @@ def college():
         lines = college_file.readlines()
         university = namedtuple("university", ["name", "ranking"])
 
-        UNIV_KEYWORDS = ("university", "college", "institute", "academy", "school", "schools")
+        UNIV_KEYWORDS = ("university",
+                         "college",
+                         "institute",
+                         "academy",
+                         "school",
+                         "schools",
+                         "tech",
+                         "state",
+                         "the citadel",
+                         "william & mary",
+                         "mines",
+                         )
         universities_list = []
 
         i = 0
@@ -74,4 +85,12 @@ def college():
 
 
 if __name__ == "__main__":
-    print(college())
+    g = college()
+    
+    for index,col in enumerate(g):
+        print(index,col)
+        
+    for index,coll in enumerate(g):
+        if str(coll) == "university(name='', ranking='')":
+            print(f"the empty tuple is in {index} position")
+            
