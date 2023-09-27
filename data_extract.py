@@ -51,7 +51,7 @@ def college():
         lines = college_file.readlines()
         university = namedtuple("university", ["name", "ranking"])
 
-        UNIV_KEYWORDS = ("university", "college", "institute")
+        UNIV_KEYWORDS = ("university", "college", "institute", "academy", "school", "schools")
         universities_list = []
 
         i = 0
