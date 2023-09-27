@@ -48,17 +48,29 @@ def positions():
 
 def college():
     with open("colleges.txt", "r") as college_file:
-        colleges = college_file.readlines()
-        college = namedtuple("college", ["name", "ranking"])
+        lines = college_file.readlines()
+        university = namedtuple("university", ["name", "ranking"])
 
-        univ = ("university", "University", "College", "college", "Institute")
+        UNIV_KEYWORDS = ("university", "college", "institute")
+        universities_list = []
 
-        # universities = [
-        #     col.strip() for col in colleges if any(keyword in col for keyword in univ)
-        # ]
-        univ_tuple = [college(name=col.strip() for col in colleges if any(keyword in col for keyword in univ),
-                              ranking=col.strip() for col in colleges if "NCAA" in col]
-        return univ_tuple
+        i = 0
+        while i < len(lines):
+            player_univ = university(name="", ranking="")
+            if any(keyword in lines[i].lower() for keyword in UNIV_KEYWORDS):
+                player_univ = university(name=lines[i].strip(), ranking="")
+
+                while i < len(lines):
+                    if "NCAA" in lines[i]:
+                        player_univ = player_univ._replace(ranking=lines[i].strip())
+                        break
+
+                    i += 1
+            universities_list.append(player_univ)
+
+            i += 1
+
+        return universities_list
 
 
 if __name__ == "__main__":
